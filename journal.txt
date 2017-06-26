@@ -3,3 +3,6 @@ A. Orozco-Caballero
 
 Title:
 Measurements of secondary organic aerosol
+
+Introduction:
+In this paper we present measurements of aerosol particles made over forest in West Africa.
