@@ -1,6 +1,7 @@
 Authors:
-J. Bloggs
-A. Orozco-Caballero
+
+J. Bloggs University of Elsewhere
+A. Orozco-Caballero University of Manchester
 
 Title:
 Model-Measurements intercomparison of biogenic SOA in West Africa
