@@ -1,6 +1,7 @@
 Authors:
 A. Orozco-Caballero
 J. Bloggs
+M. Atkinson
 
 Title:
 Model-Measurements intercomparison of biogenic SOA in West Africa
@@ -14,9 +15,12 @@ Simulations:
 We present here simultations of aerosol particle formation, using the chamber model.
 
 Results:
-We found out some stuff that previously was unknown.
+We found out some cool stuff that previously was unknown.
 The simulations did a good job of reproducing the measurements.
 
 Conclusions:
 We gained valuable insight into the formation processes of SOA from biogenic gases.
 Some questions remain unasnswered, so give us more money.
+
+Tables:
+Tables live here.
