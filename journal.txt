@@ -6,7 +6,7 @@ Title:
 Model-Measurements intercomparison of biogenic SOA in West Africa
 
 Abstract:
-We present really cool stuff.
+We present really cool stuff. We don't show rubish.
 
 Introduction:
 In this paper we present measurements of aerosol particles made over forest in West Africa.
