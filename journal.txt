@@ -6,6 +6,9 @@ M. Atkinson
 Title:
 Model-Measurements intercomparison of biogenic SOA in West Africa
 
+Abstract:
+WE did some stuff and simulated the same stuff.
+
 Introduction:
 In this paper we present measurements of aerosol particles made over forest in West Africa.
 Chemical composition and mass concentrations were measured using AMS (Allen et al 2004).
